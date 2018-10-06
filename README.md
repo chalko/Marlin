@@ -7,9 +7,7 @@ Marlin 1.1 represents an evolutionary leap over Marlin 1.0.2. It is the result o
 
 For complete Marlin documentation click over to the [Marlin Homepage <marlinfw.org>](http://marlinfw.org/), where you will find in-depth articles, how-to videos, and tutorials on every aspect of Marlin, as the site develops. For release notes, see the [Releases](https://github.com/MarlinFirmware/Marlin/releases) page.
 
-## Stable Release Branch
-
-This Release branch contains the latest tagged version of Marlin (currently 1.1.8 – December 2017).
+The 1.1.x branch is home to all tagged releases of Marlin 1.1 (final version 1.1.9 – August 2018).
 
 Previous releases of Marlin include [1.0.2-2](https://github.com/MarlinFirmware/Marlin/tree/1.0.2-2) (December 2016) and [1.0.1](https://github.com/MarlinFirmware/Marlin/tree/1.0.1) (December 2014). Any version of Marlin prior to 1.0.1 (when we started tagging versions) can be collectively referred to as Marlin 1.0.0.
 
